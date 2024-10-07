@@ -33,4 +33,4 @@ function loopingAngka(data) {
 
 loopingAngka(10);
 
-console.log("ada penambahan data");
+console.log("ada penambahan data nih");
